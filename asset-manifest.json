@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/travelwebsite/static/css/main.d1925b81.css",
+    "main.js": "/travelwebsite/static/js/main.57ba0982.js",
+    "static/js/453.1fc0b81b.chunk.js": "/travelwebsite/static/js/453.1fc0b81b.chunk.js",
+    "static/media/singapore1.jpg": "/travelwebsite/static/media/singapore1.3ed17aa69f69ac195461.jpg",
+    "static/media/abu1.jpg": "/travelwebsite/static/media/abu1.00f630cc634ce7a7b565.jpg",
+    "static/media/kuala1.jpg": "/travelwebsite/static/media/kuala1.87ee125c8019fa61b71c.jpg",
+    "static/media/sydney.jpg": "/travelwebsite/static/media/sydney.dc6b5379586afad7cfac.jpg",
+    "static/media/singapore2.jpg": "/travelwebsite/static/media/singapore2.d7506655ae135b76c1f4.jpg",
+    "static/media/serv.jpg": "/travelwebsite/static/media/serv.d374e8a05b68e882cae4.jpg",
+    "static/media/japan1.jpg": "/travelwebsite/static/media/japan1.8941a660c4b0aed8d4fb.jpg",
+    "static/media/abu3.jpg": "/travelwebsite/static/media/abu3.74bdb773034ccf1d3067.jpg",
+    "static/media/kuala2.jpg": "/travelwebsite/static/media/kuala2.63122a5c5c7d932cba30.jpg",
+    "static/media/london.jpg": "/travelwebsite/static/media/london.4ecea49d744cfbe81982.jpg",
+    "static/media/011.jpg": "/travelwebsite/static/media/011.a22a6aee47af5403c6f8.jpg",
+    "static/media/001.jpg": "/travelwebsite/static/media/001.d3d1db2749ab921fb041.jpg",
+    "index.html": "/travelwebsite/index.html",
+    "main.d1925b81.css.map": "/travelwebsite/static/css/main.d1925b81.css.map",
+    "main.57ba0982.js.map": "/travelwebsite/static/js/main.57ba0982.js.map",
+    "453.1fc0b81b.chunk.js.map": "/travelwebsite/static/js/453.1fc0b81b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1925b81.css",
+    "static/js/main.57ba0982.js"
+  ]
+}
