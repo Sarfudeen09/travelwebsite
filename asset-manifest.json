@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/travelwebsite/static/css/main.d1925b81.css",
-    "main.js": "/travelwebsite/static/js/main.5965ffcc.js",
+    "main.js": "/travelwebsite/static/js/main.44c526bd.js",
     "static/js/453.1fc0b81b.chunk.js": "/travelwebsite/static/js/453.1fc0b81b.chunk.js",
     "static/media/singapore1.jpg": "/travelwebsite/static/media/singapore1.3ed17aa69f69ac195461.jpg",
     "static/media/abu1.jpg": "/travelwebsite/static/media/abu1.00f630cc634ce7a7b565.jpg",
@@ -17,11 +17,11 @@
     "static/media/001.jpg": "/travelwebsite/static/media/001.d3d1db2749ab921fb041.jpg",
     "index.html": "/travelwebsite/index.html",
     "main.d1925b81.css.map": "/travelwebsite/static/css/main.d1925b81.css.map",
-    "main.5965ffcc.js.map": "/travelwebsite/static/js/main.5965ffcc.js.map",
+    "main.44c526bd.js.map": "/travelwebsite/static/js/main.44c526bd.js.map",
     "453.1fc0b81b.chunk.js.map": "/travelwebsite/static/js/453.1fc0b81b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d1925b81.css",
-    "static/js/main.5965ffcc.js"
+    "static/js/main.44c526bd.js"
   ]
 }
